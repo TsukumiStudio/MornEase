@@ -1,4 +1,4 @@
-﻿namespace MornEase
+﻿namespace MornLib
 {
     public enum MornEaseType
     {

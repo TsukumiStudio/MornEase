@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace MornEase
+namespace MornLib
 {
     public static class MornEaseCore
     {
